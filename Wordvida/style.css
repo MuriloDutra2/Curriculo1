@@ -1,0 +1,29 @@
+body {
+    background-image: url(fundo.webp);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+li {
+    margin-left: 600px;
+    margin-right: 700px;
+    
+}
+
+img {
+    display: block;
+    position: relative;
+    left: 950px;
+    bottom: 200px;
+    
+}
+
+.conteudo1 {
+    font-size: 20px;
+    text-align: justify;
+    margin: 10px 600px 50px 600px;
+}
+
